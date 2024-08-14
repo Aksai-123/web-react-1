@@ -1,9 +1,9 @@
 import React from 'react';
 const app2=()=>{
-  const name1="Ajay";
-  const name2="Ajay";
-  const obj1={name:"Ajay"}
-  const obj2={name:"Ajay"}
+  const name1="Anbu";
+  const name2="Anbu";
+  const obj1={name:"Anbu"}
+  const obj2={name:"Anbu"}
   if(name1===name2)
   {
     alert(true);
